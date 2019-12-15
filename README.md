@@ -3,6 +3,7 @@
 ## 声明
 * 所有数据均来自且仅来自公开信息，未加入个人先验知识，如有疑义，请及时联系root@4o4notfound.org。
 * 公开这批数据是为了大家一起更快更好地学习，请不要滥用这批数据，由此引发的问题，本人将概不负责。
+* 对这批数据的分析文章首发在个人微信公众号，原文为：[我分析了2018-2020年青年安全圈450个活跃技术博客和博主](https://mp.weixin.qq.com/s/QKKUSd3b-X2QQGkyZMQ2Xw)，转载请联系作者。
 
 ## Why
 - **最初目的**：个人日常安全阅读资源不足，需要从博客、Github、Twitter等多个数据源补充。
@@ -33,7 +34,10 @@
 * 输出一份Github与大安全资源。
 ## Github&&大安全
 
-最近更新时间：2019/10/29
+最近更新时间：2019/12/15
+
+最近新增：
+- [从0开始你的域渗透之旅](https://github.com/crazywa1ker/DarthSidious-Chinese)
 
 目录：
 - [安全知识大综合](#安全知识大综合)
@@ -129,6 +133,7 @@
 - [ew:内网穿透(跨平台)](https://github.com/idlefire/ew)
 - [python-hacker-code:《python黑帽子：黑客与渗透测试编程之道》代码及实验文件，字典等](https://github.com/giantbranch/python-hacker-code)
 - [The-Hacker-Playbook-3-Translation:译渗透测试实战第三版(红队版)](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
+- [从0开始你的域渗透之旅](https://github.com/crazywa1ker/DarthSidious-Chinese)
 ### 渗透测试工具
 - [WebPocket:Exploit management framework](https://github.com/TuuuNya/WebPocket)
 - [pentest_tools:收集一些小型实用的工具](https://github.com/l3m0n/pentest_tools)
